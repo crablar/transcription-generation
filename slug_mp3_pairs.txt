@@ -1,4 +1,3 @@
-biological-computation-with-colin-gravill,http://traffic.libsyn.com/sedaily/biocomputation_edited.mp3
 biological-machine-learning-with-jason-knight,http://traffic.libsyn.com/sedaily/biodeeplearing_edited.mp3
 bitcoin-introduction-with-michael-miller,http://traffic.libsyn.com/sedaily/mmiller_btc_intro.mp3
 bitcoin-meets-banks-with-christian-ander,http://traffic.libsyn.com/sedaily/christian_ander_goobit.mp3
