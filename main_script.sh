@@ -1,6 +1,6 @@
 #!/bin/bash
 
-NUM_TRANSCRIPTIONS_TO_MAKE=1
+NUM_TRANSCRIPTIONS_TO_MAKE=120
 STORAGE_BUCKET_NAME=flac-for-transcription  
 
 for i in `seq 1 $NUM_TRANSCRIPTIONS_TO_MAKE`;
@@ -19,6 +19,7 @@ do
     rm ${slug}stereo.flac
     
     gsutil cp $slug.flac gs://flac-for-transcription/$slug.flac
+    gsutil acl ch -u AllUsers:R gs://flac-for-transcription/$slug.flac
     node recognize async-gcs gs://$STORAGE_BUCKET_NAME/$slug.flac -e FLAC -r 44100 > ./finished_transcripts/$slug.txt
     rm $slug.flac
 done
