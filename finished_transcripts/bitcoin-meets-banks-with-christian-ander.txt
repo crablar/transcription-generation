@@ -1,0 +1,142 @@
+Transcription: Christian Author is the CEO of Google Navy which owns and manages btcx a Bitcoin purchasing and exchange service in Europe Christian welcome to software engineering daily well thank you Jeff nice to be here most people are more familiar with the Bitcoin which is the technology
+it builds fintech applications on top of the blockchain what are some example applications that you have built
+ well basically what we're doing is mimicking that additional Financial system on the city building and the thing everything from basic exchange buy and sell them occurrences to point-of-sale where you can go to a store and pay with Bitcoin and also a wallet picture so you can store and then send the financial sector needs to be rebuilt and that's basically what we're doing could you tell me
+ yeah basically it's it's HTML5 store can you get from a mobile device or computer as it once and I'm not sure how deep in like programming language as deep as you're willing to go okay I get it I'm doing it and that I know it was short up there had been thrown this accident since relay
+ quick to Greenland and modify from your perspective as the product designer sort of or Thor the project requirements for that type of application
+ I mean it's always security when it comes to bitcoin everything in it needs to be secured it's like building a bank but better
+ and I respect it has to be really secure and then it's also his fast when you pay in the store I mean you're kidding me that Lisa which has a limit on a Note 3 seconds or transaction I know sometimes it takes longer but we need to be below that so might my specs for this for this app I said one second option section
+ and then leave bananas to build up but I know that I trust you it to imposed security that is safe from the traditional computer science attacks or or do you have some background and security that you yourself can specify what things you're concerned about I would say it if I have no security background but I'm training Computing I'm actually my background is quantum physics and I also started Crampton Computing at the University Inn. So I had to go in and I'm kind of
+ look and come with proposals and we have a dialogue basically
+ that a Bitcoin application has to be worried about
+ it's the private how to store it or how to store it
+ I'm glad that's the
+ biggest question we need to solve in in each part of the application when we were taking and when I custom painted
+ 21st address to regenerate and then we move it on and then we store it so there's like three or four stages where where the Bitcoin is an olive stages as if an secured aspects
+ fascinating has there been any like
+ what's the current BTC xx1 I built completely myself real fighter lyrics started in 2012 and it was one of the first Bitcoin companies in Europe and I just wanted to check to see if there was an interest in buying it, so I put up a page is clarifye eye guys I'm selling is the price of what you pay
+ it took off pretty fast
+ and then today it said its way of buying it really fast if your a Swedish Customer because I was talking to Andres and just like a speculative currency is basically because it's really hard to buy still that's true we are I mean in Sweden in the same boat but almost everyone has a mobile payment system app and I we hooked up to that system so you have to take your phone and you switch show a 1000 Swedish kronor and then you have your Bitcoins within 30 seconds
+ birthday
+ as soon as it come out outside of Sweden it's it's up to each country and the banks in that country what what the customer can use connect to the rest of the Bitcoin world
+ yeah I think it's different it's exchanged has its own solution I mean of course
+ we didn't stand
+ Pascal Bitcoin core with Countryman to communicate with a Bitcoin Network
+ but then the
+ running in a Bitcoin exchange that it's is a central solution building
+ you're on top of the banking system so I would say thank the integration to the Bitcoin Network you or the community park
+ and then banking system is the hard part these days is dealing with compliance issues what is the difference between dealing with compliance issues of a conventional banking World verses dealing with the problems of engineering company
+ interesting question
+ I am I can say that
+ one of the biggest challenges we face is
+ is Stout a good good connection read a Swedish Bank
+ mostly they say that because of compliance and stuff like that but I think they they don't know how to handle these find itself and connection
+ you need to know someone in the bank who can
+ take your your side because I would say never bank right now out there they have a policy around virtual currencies and as soon as they I mean higher up in the bank says okay we have a Bitcoin company what to do if no one is there to take your side you would probably have your bank account close
+ so it's good you can have the bank as an investor. That is a very good way or maybe you know someone in the bank or consulting services or or or you just have a really good professional that connection with someone high up in the bank let's say you have that connection application developer integrate with them engineering wise like what is the do they provide you with some sort of 8
+ unless we don't injure of where we have this system it's called
+ .0 Central which is a way how to handle payments across Europe unfortunately it's slow and expensive but that's one way to communicate and then you what actually do is use you set up by FTP server if you're sending and payment files back and forth
+ yeah and the specs are made up from The Atheist kind of its perimeter Mall my developers they look at the specs lag so wait wait we have that not so many banks in Sweden are offering an API and there is actually One Bank who is offering baby I bet it's super expensive so today we cannot afford it so what we doing great actually building a crawler of applications were actually crawling them and crawling and I'm doing actions like a web browser
+ as we want to do an API but we do it in a web browser script
+ so it's actually running around the clock to 2 or accounts once a minute and see if something is happening or if something you need to be done to process them for taking example of one of our users want to buy Bitcoin they do a bank transaction and proof we have a new transaction in our bank and how do we know that how do you know if I paid
+ I don't know if Kroger is the letter right word maybe spider or I don't know but then this is login to an improv I can save on your transaction and section line and then we know who has paid that money so that's basically okay so what is the deal with expensive API that actually works that story behind what is what is the API look like in Rio
+ I haven't seen the ABI myself I just heard about it basically the biggest financial institutions in Sweden they have access today that i d i I guess that you get all the information you need from all the transactions or you and you can make yeah I just said it's better than you probably Lucien all transactions Take One Bank day
+ by the way our new slogan is you can buy Bitcoins in One Bank minute because we make fun out of the bank. I think we have one it's just I don't know
+ yeah it is so what kind of transaction volume are you handling we have around 3 million Swedish kronor
+ have to check that out for Tourette syndrome in dollars but I would say it's around $400,000, Jackson volume change with the recent aetherium trading volume in Sweden so I think it will take him some time before you notice anything
+ customers more Main Street type of type of people and the people that might be influenced by aetherium trading those are our people who kind of have maybe more more of a technical background so they don't really have a need for the friendly front light user-facing API that you provide I think that's a good assumption most of our customers are investors who think Bitcoin is a really interesting and investing into and they are they might be technical but they might not be and then the other customer type we have is a consumer they buy Bitcoin because they want to buy something online
+ and the smell of those two are I mean
+ describe some the aspects of your company and Engineering what are the like what does it describe build an F company that does engineering around Bitcoin cuz this is somewhat of a new idea a collision with Main Street Banks is happening and it I'm just curious what the Engineering Process the macro Engineering Process is like for you
+ yeah do you think from the old company or you or the technical
+ surprise me whatever would be useful or maybe like maybe it's very similar to building a traditional Finance technology company like Square maybe it has the same kinds of issues yeah I mean from my perspective it's been a lot of fun and Company wherever I go with with whomever I talk there is a reaction could be oh you would go to jail or wow that's awesome I am I want to be and just recently I will see in the political events
+ and the Jonathan is was there yesterday before me and was talking about v card and it basically what they did do I don't know what what he said but when I came there and said I'm running a company I was invited to all the mangoes I was invited to all the fancy parties and got drinks and I had to talk everywhere with everyone I mean
+ Rihanna waking up at 2 to bitcoin and see its potential and the blockchain and from that perspective it's really interesting to talk to Bill about blockchain technology company because it sounds
+ 1998 HTML New York but then when you get home you have a letter from the bank saying hello we want to have a meeting with you and you have to go to the bank bring your Finance guys with you and then you have to answer tricky questions on that you really need to over prove the bank like three times over. I'm not there's no money laundry going on
+ and that's another aspect I mean I've been being invited to the street is Central Bank financial institutions on and the person from the central bank if it is also an interesting thing so all entities are also looking into Bitcoins of the central bank is inviting me to meetings and I'm really good because I can interact with all the other technology companies companies in Sweden
+ but I only have like IRS scam tax fraud
+ they're also interesting in bed crying and they are not so when they come to us they hello there. They're not asking you to the nice question you want to hear they asking that
+ that's that's a couple questions so I'm curious like when the banks call you in and I don't know her ass you or ask you about the money laundering process of diplomacy like or or like what what helps that processes is it important for you to have transparency is important for you to have lots of documentation and transaction history that's heavily law what are the important parts of that negotiation process
+ if they're not the right because these banks are like historically non-transparent yeah I think the bank wants to have the power so they want to know everything about you without giving anything to you and that's classic power game until I I'm running my own bank at the way I need to play AR
+ and then we have some very bitcoin-friendly banks in Germany have feet or Bank in Sweden you have a small of the day it's actually a member on Bank Holyoke find can actually to see you over the bank came to me again we're discussing gift card for hours and hours but then again if you want to have a good way of doing your transaction you need to have one of the bigger bank at 3 since we done because it's such a small country so then you transparency all the documents regarding kyc and Mommy laundry if you have like a financial expert with you so they can ask you a question regarding Finance of the company and
+ also it to bring the bookkeeping company
+ you mentioned fidor bank I think 5 is closely integrated with r
+ good question I know they're closely working with the Kraken
+ jakim it's another basement
+ Ripple I don't know I don't know how to have the best currency transaction system that can service the pre-existing Banks because like these banks are like scrambling around the race to be the one-size-fits-all bank integration platform application because like having all the banks as your customer is like a pretty good business
+ I mean that I can just look at myself and that's what I'm thinking of
+ so I am talking with the Swedish Banks knob and I I am offering different solutions and we'll see what
+ what what's that mean I mean it that the tricky part is that they don't know what they want and I don't know really what I want to give them I think it's a real explode while exploring the same but then they are song
+ because you are like like the point of Arbitrage between customers but you're cut your users your customers to the people between the banks who are like their historic strategies to screw over the customers as much as possible so you you exist as an Arbitrage between those two like presumably like the bank still want to maintain some kind of screwing over their customers and customers are really nice time and then I'm getting screwed by the Banks and then yeah I put the
+ I mean the idea is to make it seem less later to go in and out the cryptocurrency sand and Norma traditional prices are vision is also to have our own bank alike system where you can pay your bills you can do 2 transactions you can have your savings it's not that far off of having that solution with running that we really need to park around weed a bank who who likes us an RV or ideas
+ so what is the Strategic roadmap there how do you say I know that my eventualities that I want to become a bank in the meantime I mean is it is a sort of like you just constantly go for like the local maximum what is the strategy like
+ right now it would be to have a bank as an investor
+ and then the things we need to to have a bank license for we we came to the bank and the things we can do ourselves like the Crypt a space we we we do and I think it if we find a ride bank at that would have been good division because then we don't need to do that the banking stuff and they don't need to touch the crypto stuff and then they need play separated into different legal entities I would say the exchange part would be on our hands between back and forth currencies and then when we doing a transaction in the Krypt to space that would be ours don'ts when a bank do a transaction they need to know 100% sure who is the sender and the receiver
+ the transaction that's quite hard and so so and that's easier for us because we don't really have that tonight requirements
+ so how do you resolve that tension
+ what I haven't yet that's that's the million-dollar question
+ yeah
+ how do you think about about Bitcoin vs Ripple and stellar and aetherium in each other basically say I'm just going to focus on bitcoin because if I get Bitcoin right I can probably figure out these other things question actually I'll be looking into referral program a long time and I think we feel it's a really cool system and then in Bitcoin is also a very cool system now it is here them ready to going live
+ it's sad
+ oh I could say about that the strategy is not clear I think in the future we will have all three of your system for sure but probably even more
+ the question is how I wet when you run a company like I am it's good to be focus on one thing and do that good and then cooperate with other companies who is focusing on their thing and I haven't strongman Corporation lens focused on getting Bitcoin payment integration correct my goal is to get all that a Bitcoin transaction be more or less automative
+ it's possible yes make it a running machine and then have some people that do any service and support and then that is unattainable because it's sort of like we're in this time was like yeah you have to you have to connect all the little hooks into the the mail server and it's more like the TCP you're like a TCP routing points like that's not a business that needs to be high touch in the future itchin to be and then have its automated and like that it's it's becoming a good
+ we could call it I am only machine to read from that sweet we can build more applications and then I have a solid income for years and comparing it to bitcoin if you've looked at aetherium in detail what are the Salient comparisons between Bitcoin and ripple or Bitcoin in Assyria more aetherium versus Ripple world currency
+ Juiced currency in together and rip Alyssa a really interesting way of decentralization of
+ transaction between different things between courances between I was looking very much into like how would the a decentralized stock market look like yeah it could be out system I think in the future or if they might say I really important role of bridging a thousands of cryptocurrencies we have probably will have even more different
+ systems weight will the theater now where you can you can just build your
+ scrape through your machine and you can have more and more yes automated and scripted and to connect all this
+ that works
+ everybody has their own currency like am I going to have Jeff coin and you're going to have Christian coin and we're going to pay for stuff in our own self issued currencies sure I mean that's what would be the juice catch to have your own currency at
+ it's not really care for me but I'm
+ the current state of affairs is
+ do you need a u.s. currency in order to buy things in the United States you need a German currency to buy things in Germany presumably the the Absurd natural extrapolation to that is so if you want to buy stuff from Jeff you need Jeff coin Christian coin
+ I don't think it would go that far I'm of course it will probably order the appraisal name but I'm sure I'm not sure if it's the benefits are you need Apple coin and you pay on Apple pay and the only way it is yeah I mean I don't say that's a problem really it's just say then we need a system to hook all these coins together and then I thought would also happen
+ so I'd love to get your attention to decentralize stock market I think the current markets are are weird stuff is happening right now like for example just start up unicorn companies none of them are going public so it's like what's going on is are we having this movement towards private markets or some sort of gradient between private markets in public markets is the future look like when it looks like you are a farmer in a concrete somewhere near your growing apples or or coffee beans or something and it's raining like or I have a 3 tons of apple and you just issuing you on the on a decentralized market and anyone can buy that it's like a contract
+ contact actually in the end that someone is buying at the selling at the meeting at them they're going around the world and then we have the local grocery store in Sweden like okay we need some apples so far am I from a Faraway land who selling you okay perfect passer rating of course when you cash it in the you need to have a
+ contact with a radiation Transportation made Transportation transportation system today
+ kind of recent flights. But it's kind of sending one thing to several different trains or tracks for training is like this Apple farmer has some apples he wants to sell it he can just do it through some decentralized Marketplace and so instead of the current system where you know the people that have the power our life people that can create those contracts or the shipping container companies or the the the transportation companies at the end of the Apple farmer has to comply with those companies where is in the future farmer
+ and maybe there is a Droid coming and picking up the apples and maybe the droids or maybe you just put in like oh I want to have it shipped this apple and I put like a transaction fee I'll say 2.1 v card and then maybe no one is interesting in that but then the okay see you at 12 and then like droids who wants some Bitcoin to refuel its batteries with completely self-sufficient takes and ships apples and then get some Bitcoin and then it can so many so in the future we might also have a I running droids and who's taking over at some work from the transporter people
+ Insanity that these guys are talking about the biggest his difficulties that the world needs to overcome in order to reach the sort of Tecno utopic you know Apple farmer power to the people type of scenario
+ I think technology happens and it says it doesn't matter if you like it or not if it's being used it will benefit its way to be used if it's like when you had corns when you have it in Sweden some heaviest coin in the world where the white one the copper coin well 21 kilo something and then someone said okay let's change the coin to a paper paper Bill and it was so popular because she didn't need to carry around all the things you can just have a paper bill and the actually it was banned in Sweden for 50 years paper bills because the bank who gave the debate
+ it's just a position imprinted more bills than they actually had him on there which is happening all over again with them Banks today but anyway but that the people of Sweden still used to build even because even though it was spam and the reason why I say it say it benefits is bigger than the threat
+ so the biggest hurdle
+ you can say it's time or you can say the biggest part of extended the resistance from the existing compressor infrastructure but I will always be
+ overcoming giving a herd of time Russia decides to launch a nuke or something or like China's stock market collapse all this techno Utopia stuff done or do you think that's too scared type of talking
+ price of bothering me and I'm not sure how realistic breast actually is
+ I'm in Russia sending a new cat what would I gain by it I mean
+ but yeah Rush is going to send a nuke I just mean types of types of
+ political
+ Humanity that would impede us from actually being able to realize the Utopia type future promised by decentralized technology no and yes I think about what I'm fearing is Maybe
+ maybe one proceeding I mean Infamous internet was expression of freedom but today it's an expression of the surveillance where do you have surveillance I've seen in phones and computers and everywhere and and
+ is that at some point today Bitcoin is freedom but maybe tomorrow Bitcoin is Super Bowl on the third battle of the gods of Manson and all the transaction or log them and everyone knows who's everyone is definitely the affair then I mean also I'm a big fan of Matrix that would also be a very sad sad ending of the human story line if we ended up as batteries in a matrix simulation but I don't think I don't think the sign our Rush Hour anything else is that bad she believes that presents technological solutions that are insurance against the type of concerns that Stephen Hawking
+ scav do you agree with that interesting I would really like to talk with her about that
+ I don't see how when dachshund would protect from that is like you have to submit philosophical perspectives to it and if I submitted that was in order to do the best for humans that we need to put them in the battery we are never trusting this malicious again on block saying is not available for us
+ Ecuador
+ in interpreting her her argument correctly then it's like well I think that presumes that humans can somehow out think these malicious AI that have side changed or whatever which is probably wrong but then again maybe it'll be good to be in The Matrix and so who knows it's a player's individual Traders you got market-makers hedge funds this is like the traditional Goldman Sachs Bank of America Merrill Lynch type of world how does that differ from the types of players that you see in the Bitcoin exchange world what I said in the Bitcoin exchange they are mimicking traditional Services I think
+ mostly because the services that Builder to have our good and roaldsen it Amelia crypto space but I'm also saying is like that. They are out to issue stocks virtual stocks and how to put them out in a decentralized Marketplace so I think Stock Exchange will laugh definitely go that way
+ or require some companies who they are doing it
+ yeah
+ I watch the Democratic world but Finance is less Democratic why is currency choice so important to the individual
+ yeah this is I wouldn't say this is also very ideology question but it also depending on what countries you grew up in and what government you have basically the government decide your currency and if it's a good government but then there's also
+ this question is in Sweden which is a good government that we have a good Central Bank and up like that but you still don't have any choice over your current CD rates Bank in this week's bank today they printed up tons of money to lend to grease a few years back and it's basically nothing you can do about it it's it's I like the Swedish government is taking maybe notes your money but the valley and playing with it and I think it's fair to have a a choice to put it to have money where
+ what is not someone else is gambling with its value and it's think it's good to drink stored up and then have more emoticons days and maybe that's a no one else's said
+ controlling at the new section of
+ so let's let's start creating our own currencies such a chaotic Financial systems that hard to get stuff done
+ no no no no no it's like the internet information in PDF file. What's happening beneath you don't need to worry about and it will be the same recurrences ascending value and if my password thousands of different currencies on the way about some matter
+ what is at the intersection of blockchain technology and Taxation
+ alright yeah that's a good one
+ yeah text mommy is is everyone's money at least enough country and they should be packable at inspirable transparent transparent for the for the government to use a blockchain for all the tax money and all spending that would be a virus
+ a good choice
+ how would tax systems work in your Ideal World
+ that's also very good question
+ I have some quotes about that
+ yeah but before I began with Bitcoin I have this party, party before all of that I will see a particle of liquid democracy most in Sweden and that basically own decisions which is being made by the government and you have the cellular. You can go in and have a vote on each specific question area or
+ or a bigger I would say
+ one really interesting I would say is I go with interesting way to have a tax Society it is that you do vote on whenever it's question and you can also put money into it says like you're the tax system comes like a crowdfunding all we want to be the new school okay you have the tax money but you can also add money to the school so maybe 15% of your tax it's just reserved
+ why do I not say 100% of the text is reserved so you have to pay it but you have to you can shoot yourself want to put it on the street lights on musically no lower tax over here at work
+ whatever
+ that would be a really interesting world to live in to see how that would be because then basically you put all the power and down at the people peoples level and the Clips application sorry I was executing the will of the people so there's no hidden agenda
+ yes I can
+ what is a bit and how can an engineer listen to this if he wants to come and work it coob it what we have many opportunities we would run different platforms basically we are going to be all this and then the engineer can choose his own technical solution to all old and new years has their own set of Microsoft servers where they can choose their own technology and everything is communicating with a V ice
+ death today we have different angles through on explore of course so I could wait to start this just to contribute to one of our projects and just email and see what's going on you have some open source projects and we have some
+ are the Bounty products and stuff like that
+ yeah that's it

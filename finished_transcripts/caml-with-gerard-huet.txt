@@ -1,0 +1,109 @@
+Transcription: software engineering daily is sponsored by hired.com if you're looking for a job hired.com is the place to start I've used it personally and it is an excellent service software engineers and designers can get 5 interviews in a week with top companies go to hired.com software engineering daily for a $4,000 bonus upon accepting a job thank you hired.com
+ Girard who it is a senior researcher at in the French Institute for research and automation Girard helped develop the camel programming language in the 80s and has a variety of other accomplishments in the world of computer science Jared welcome to software engineering daily
+ so this is functional programming week on software engineering daily I'd like to start by talking about camel would you help develop while you were leading the formal project what was the formal project
+ show me the project was so we can go to email program in language was my time to go to the meeting Pusa programs
+ so what is ml
+ better language assistant at University of Edinburgh
+ ATF means Logic for computer keyboard function initial deduction trees specific proof system that was so where are you
+ okay so before we get too much further into ml I'd like to set some context what was going on in the world of computer science in the early 1980s around this time
+ after computer science non-numerical applications such as we could do some programming language
+ why was lisp so popular
+ what Funeral Home
+ when is a 1/3 Dynamic Georgia just function so as you mentioned ml was The Meta language of the lcf proof assistant what was the purpose of proof assistance
+ the purpose of some assistance to mathematician India I would protect yourself the computer hardware engineering engineering
+ Ronald Lindner software engineering people could get by with a little unwell Wisner safety-critical
+ do you think there's an upper Bound for the level of complexity you can you can create a proof around I mean cuz that's it that's the best thing I don't have is that your software project can you get so complex you can't have a proof of correctness around it
+ nervous about measures of complexity is there a Compass by your body language is so if you want to we can be impressed by your body.
+ Usher computer science
+ New York Times circulation
+ okay fair enough what were people saying about functional programming around this time to people it was that in the Lexicon people have the term functional programming
+ Sisterhood functional programming some sense
+ Vining minimalistic your functional programming language to manipulate functions
+ as opposed to just show up.
+ what is the most play advertised in mathematical equation
+ we like aplicativo Norman stories
+ what are reason to reason about a cricket if it was it was pretty easy
+ no issue
+ then you will get if we kind of pictures
+ okay well it's so let's get back to the story of the evolution of the camel language so there were some projects related to ml that served as the eventual inspiration for the camel language what were these inspirational projects and how did they lead to the development of camel
+ okay let me tell you that I didn't notice in the picture
+ like I said I was interested in fooling.
+ call Mike Mike Thompson on West to implementation of this full bred 4S clean semantically as possible
+ list of old Armenian onion and you don't know what you said today. You don't know what is dynamic
+ play better for you as a special needs to be said why don't you call uml language it bothers me it was an interpreter language ml
+ so I went to see her doctor New York mind
+ Nick Wilkinson
+ search for the next two months I was just a boring over there
+ turn the inside of a joke that wasn't comparing you to list some speed up Android V10
+ artemisinin
+ next week kind of isolated MLP midnight Edition appointment
+ red wait to this was inspired by a scary monster equations
+ Anderson
+ okay and So eventually camel was actually implemented in 1987 what was was there like a spec for the language
+ no yes I know that's what
+ Unix process of standardizing the language
+ which Rihanna participated in the in the year 1887 discussion can't believe sure there was a patient with automatic memory management and I mean what was the what were the goals of of that specific project and how did that how did that project evolve from that point on
+ that was the first camera was the first one was in 1983 or saying information at some point I will have to send out a request for an amendment but so okay but let's let's talk about that implementation why did you add automatic memory management why was that so important I understand
+ right oh yeah I get the list did the memory management I dare you
+ we'd like to take a moment to thank our sponsor digitalocean offers simple Cloud infrastructure for developers in one click you can have a mean stack or rails application Ubuntu box or another custom environment software engineering daily is proud to have digitalocean as a sponsor because digitalocean is the simplest cloud service provider I've interviewed moisey oretsky who is a founder of digitalocean and he told me that digitalocean was based on the realization that other cloud service providers are so complicated if you want things to be simple when you deploy your application use digitalocean to try digitalocean go to digital ocean.com and Inter promo code SE daily that promo code is 1 word s e daily now let's get back to our show
+ you did mention is closures and I read a quote from GEICO see nowhere he said the the cam model potentially introduced memory-leaks because useless values work at enclosures is that is that the the difficulty you're referring to
+ and we participated to this way so we did not go into the sun
+ at some point in line with what was becoming the Sun
+ when your sister must be willing to please babe can you stand up
+ at some point with the camera
+ when is Minnie Hughes guyses which one direction does the OK Google
+ what's the weather tomorrow in the whole world
+ so so there is some kind of Truth implementation this was not very efficient with memory leak
+ skip to go eat there could be natural and we are comparing from emailing to ellipse
+ Nightblade what is the big German song big monster
+ yeah so what were people using it for what kind of applications were they writing
+ what is the weather in the manifestation will replace Reggie about the 1985 edition of the Old Rag
+ the time this was a main application using your email for teaching kids when they leave behind new edition of tornado that would know about such a weirdo
+ C implementation
+ redneck we started doing other application and
+ scrutable light and so there was camel light and there was also camel special light what what did these how did these differ in what kinds of extensions did these offer
+ how did Jamal die to talk about
+ that's all I got you
+ that's funny I just was funny
+ eventually you got to objective camel borewell objective camel was created what what new features did objective camel bring to the language name what discover special like yeah
+ invented which Indian protein
+ Ghibli
+ and furthermore there was a facility for marshalling values between camel and see if we could go Fishin libraries in Seattle
+ okay showing on 3rd row seat rails about objects
+ why not what do you have against objects
+ weather today
+ Minnesota Board of Jessie
+ I mean in Armenian
+ and none of them are compatible, and JavaScript but there are ways of of introducing compatibility I mean you know can I could just pass Jason between the more
+ you can invent these DS cells that serve as communication platforms between different languages baby. Very elegant but it does the trick
+ it's a big deal I did not see that and let me know you would you take 200
+ I don't believe so
+ hello this is the objective
+ what is that true
+ I don't know I think it's so so your ECU never liked object you just never worked with object-oriented programming at all are you work the Builder feeling really brothers
+ perfect of the optimizing for a picture of Switzerland
+ okay so you know I'm kind of curious about just the challenges of building a functional programming language or or or building out an implementation I mean what what when you were managing the formal project what were the the managerial challenges and the technical challenges that the project presented so you have some kind of stage of the Moto G
+ Meyer materials for managing the somebody's interesting process so I'd love to talk some about your current work your your current work is in the numerical Humanities could you define what numerical Humanities is
+ weather environment and programming disco underground other girls walking in the taxi already invited
+ between function turbo Thompson
+ what is a open circuit voltage of a skeleton
+ cancel alarm
+ very fine. Okay. You should give it up some view of the pool
+ the end of the 80s freestyle
+ 2098 chicken song hold my gear students at the investigator Mustang Direction most popular programming a duct system into semantics of natural language
+ and another one
+ 25 cent some kind of semi formal it was a fun did you close the top of the language memes
+ well the welder boundaries of Music children
+ it sounds good the worlds together find a Wells indefinite eat Mass
+ and that's how I do this certificate and all that but I don't appreciate you my toes music
+ so what are the what are the parallels between creating programming languages and your your current work with your current work on Sanskrit no I don't see much but make sure you sign functional programming language and designing analogy between
+ in Dishonored 3 the types of the programming language are the four positions
+ so you can see the language
+ open for future of Expressions can be made of the same type
+ does that mean that but you don't need to type the distance now you're actually language
+ okay I know you're so if you want to wish quantification in the center Spurs roster
+ understatement one undervalue
+ cancel this is an ID that is not then we don't have to do anything special about the volume
+ what would you do if you going to search Red Scare many people
+ Usher dating seriously what you doing
+ Gerard thanks for coming onto software engineering daily it's been a pleasure talking to you about camel

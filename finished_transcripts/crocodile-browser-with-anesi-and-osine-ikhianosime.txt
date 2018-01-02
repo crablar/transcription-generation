@@ -1,0 +1,82 @@
+Transcription: welcome to software engineering daily today we are republishing a past interview I conducted with osina and honestly Inky on OC may I pair of teenage software Engineers from Nigeria who developed mobile browser called crocodile browser this is one of my favorite interviews ever and I think you will enjoy it it's a great illustration of how wide the scope of software engineering is and why software engineering daily what's the continue to cover a broad swath of topics thanks for listening and if you enjoy the episode please give me some sort of feedback and let me know what you'd like to hear more of I'm sorry underscore daily on Twitter and you can also message me on Gmail software engineering daily at gmail.com thanks
+okay thank you
+ gratulations on an awesome product which is crocodile browser I download it's really you build crocodile browser because you needed a faster browsing experience for browser with that with that that product use case in mind very small take a little space in the memory 6 about 70 gig 70 megabytes on your memory is small and Compact Plus 4 speed used to this was all built in Android correct
+ connection how does that work we isn't very lights JavaScript engine that's possessive penis fast and easily that was about yourself in an already existing engine webkit engine from Google okay do you know of any specific this browser is differentiated from Google Chrome Salon people say it's faster to design is completely different is beautiful simplicity so anyone can use it for now is there a product roadmap for it
+ what sorts of features are you planning right now but what is your workflow like as a team like how do you how do you and your brother on NCIS Los Angeles how do you work together most of Gordon and the world because you are we to paraphrase whiteboarding over Improvement
+ catch me if you guys ever had some disagreements about something out it won't stay and close with us
+ just want to see you alone I just want to see you so why didn't you want it on the store I didn't think it was a good enough startup community that
+ once you're comfortable shipping a product it's probably been longer than you should have waited like you should probably ship before you're comfortable with it but I mean that's just conventional wisdom I think it's perfect. Absolutely by Steve Jobs
+ address of st. Mark's stuff if it was possible addiction which says the transition to the next Frontier speed SpaceX we have Bill Gates Mark Zuckerberg
+ and Sergey Brin and Larry Page
+ you keep trying and trying and trying until he gets his rights journey to becoming successful product Engineers yes we do persist past difficulty
+ I don't know about clouds or anything to gain information I needed that was OC nitrite difficulties but maybe it's was when we started off of 1st upper side I personally think it's work I just said okay, so how long is going to take to complete this project I will give herself like 1 years completed in 3 months and thank you in 3 months it's a
+ it was
+ yeah I was amazed at what we could do such a short. Of time indoor front end development
+ actually I prefer fronts and okay do you think it's impossible to be a good front-end engineer without good designer I don't think so
+ and that's because I think I'm in trouble design decisions when it comes to me and I'm distance with markup language do you think in the future there's going to be no difference between engineering and design like the same thing I do on cruises
+ better technology Kings everyday allow Engineers to act like designers or allow designers to act like Engineers schedule Maya by Best Buy real life Mario and and application highest build stuff to build two more days to order real life things on animated Croc chat for descriptive
+ approach is its
+ I already took too much about that but it's what kind of Magic on vacation with courtyards
+ what do you think of the different messaging messenger you have WhatsApp Messenger different interesting feature sets like differences between Facebook Messenger because of all the different types of the difference of degree use with Eco messenger app like I I used to keep the uploads
+ and it's really creepy you guys use stickers
+ I used to cuss a lot
+ did you know that stickers are the business model for messaging app like because I was like a business model Digicel stickers and I don't think that sustainable I think that they should try it on another service with people and that equal most games that way they can make money
+ I don't know it's interesting maybe it is maybe it would be a long-term business model though cuz it's kind of like you have a really good artist that makes a really good sticker having a good artist is noted difference what's a komodo is like still in its infancy it's that we haven't really seen
+ he hasn't switched this is not my choice it's so we can't really say such a fragmentation like I remember I don't know a couple years ago I was basically it was just one spot for me at least it was just Hangouts in WhatsApp and now it seems like there's a million of these things is that your experience also or have you guys had messenger fragmentation for a while
+ actually start... Recently I slept at Sue because I get to the different audience and if you want with your friends on each of your platforms turn all of them what is the what is the difference segmentation there like who does Snapchat Target
+ that Facebook Messenger does not Target Snapchat this more of like it's absolutely delicious of messages at all just magically disappear right and some people say that says quite interesting and I think I read an article a few days back of about even respond at the founder of Snapchat he said that's how to say gets to change this 5 year olds on Snapchat Snapchat it's more of like a TV on Facebook Messenger is anyone on Facebook but no everyone is on Facebook so to tell me what it's like to be a young software developer in Nigeria
+ it's pretty weird cause last year last year I actually knew what I was doing before I should do my pride was looking down at me most of the guys there were about 35 to 40 hours myself old men and women there
+ Audio Express in there yes I do know I do know people are more experienced
+ I think they have much to do we experience when it comes to start work because I had an older person might think of about 500,000 Sonora pest control guide younger person taking over the photos am I going to look like to grow only when is reaching its group stage that doesn't have to be mature any young person because young people want to have the ideas of the older ones that have the experience to help
+ Slinky Crew 2 skills to get the skill of I miss you like me push anything out where to put up the stupid disgustingly designs ugly it's more confidence in just just push anything out you don't understand that experience any speech at the University of Michigan Michigan is that the one you had for 3 weeks and he told his advisor and he said that and
+ conservative and said that she would take you through the movie what if it takes you longer you just push keep on keep on saying you don't give up it just acting in a very sophisticated way that was in the best interest of the younger person
+ because you could have seen this is going to take you a lot longer but it's okay that is nice
+ like imagine if you were
+ . To never visit Earth before it's like to live in Nigeria 5 problems basic infrastructure problems to get to that place with the better power supply probably yes
+ what's the biggest building in stores stuff would certainly help our infrastructure in Nigeria from having a week power infrastructure does that does that restrict some of the things that people to do that are that we take for granted in in America sample oh yeah sometimes I can work over tonight because there's no power and lots of battery dies
+ nothing else about sits battery dies on what about that
+ and let's talk about terrible like poor internet connection it's and it's very very slow I think it's for G I don't know it's getting bad so but it's still quite so I don't know how to answer the question 50% of 9
+ know why don't people use it I think he has to be on when is most people aren't aware of this photo cause its concentration and simpler and easier how to code
+ why don't they learn to code interested it so I think it's boring and most of them Just Dance interested some of them are trying to learn now but no no none of them have it just asking me questions to me it seems like such a fundamental skill
+ I don't I don't think it's like I don't think stop on fundamental right now because there's too many people around the world to be done right so I think the problem she did so good first before before we try to make corn pudding like
+ bad farts that to make wooden basic education skill you're saying in 5 to 10 years we still need to be focused on just reading and writing if the problem is time from what do you think the world will look like in 10 or 20 years I think the world would be I think everything will be connected with the
+ I think the internet of things would like the industry who has reached its peak on. Talking about Mondays we also meet you at like drones and drones robots will be more mainstream living here in Africa to be here in Africa in the next 10 years hopefully I think it should be for delivery at I think I'm going to try to do something in 20 minutes like is Bisbee transport Logistics flying around as you can do things like mesh networks among the drones
+ yeah that's supposed to rain today
+ that's supposed to bility in that supposed to be like
+ I like city is butts in places in the rural areas I think the Google's Project food expire thing
+ it's going to be more
+ it's going to be more people there are Facebook and Google going to have competition for delivering internet service or do you think they're going to be in different market segments minor changes Facebook is like drones right they have low flying drones Google's plan is the
+ well I think Facebook on Google somehow managed compete against each other all the time so get I think it would be competing against each other for drones on everything else eventually
+ is that competition is overrated especially when you have a wide open market place with lots of opportunities
+ and I started thinking in terms more of
+ how companies can stay out of each other's way maybe in go for more well-defined market segments without stepping on each others toes do you think that competition is overrated no not really rather Facebook on Google in the first place right now Yahoo Yahoo complete and do it because maybe if you would like the best the best the best search engine
+ because you must what's up? Better products competition is best for because you smell so good for gums
+ the companies has done post Google strategy
+ try to copy Google I said okay now search is super important to us rather than trying to
+ I'll go for Something Completely unique so when so when Yahoo really tried to compete with Google and win from a portal to a search engine
+ it was actually I mean it's sorta was their downfall and now they're sort of like a shell company Brawley or whatever you want to call them centered around any specific product and almost seems like they were trying to come to me in my opinion. Oh well. I think it's better to try and quit trying to create your own niche market Trion divers tell me about your day tell me how your morning goes and then what do you do at school
+ just tell me about that way and when you program I would like for you to go see Nick and tell me then and then tell me today live I wake up
+ I go to school then we do lunch and see if after lunch sports sports vocational assembly
+ pasta well if you talk about things like Spanish citizenship
+ stuff like that that's about it's a program when I get home
+ Andrea and Fridays I program into the night like I don't sleep much the same as when I get home I think I wait for I wait to watch the floogals quests first then I can I write down some ideas on the Friday night I join him and codeine 30 nights like you didn't sleep then I just what is your favorite programming language in JavaScript
+ Burmese Ruby
+ I think it's a simplest to the simplest it's very easy I guess I don't have to really think I just thought so but it's nuts how do you spell useful is very useful for students YouTube
+ you know it's interesting because JavaScript has gone from this language that people used to not like as much bleach to make fun of but now it seems like this really feature-rich interesting with all these features like I prefer both I really like the functional features of both of them but what do you like to fart in JavaScript is Diversified in games website did Omar Mich to work the animation website the interactive websites like react yes
+ what do you what do you like about reacts I lied and said that each using simple outs cross-platform just how big the the import like all the libraries do you have access to it and it's very easy to import stuff cuz it's just what is your what is your favorite Wikipedia article starting with an s
+ I think I just read that today is computer vision computer vision
+ Jimmy. That's what I really want to go into like that's that's the future to me in my opinion synonym what are your favorite sections of that like what's your what's your favorite aspect of machine learning summarization body summer edition aspect and I love to do something like that
+ yeah I was like Michelle in Prospect actually teaching to complete the training process for how you train a machine to do something it's lonely Forest rating when he doesn't get you right so I'll try to change the computer to compressed inside of you were trying to be the next Pied Piper are you training your
+ your machine learning algorithm to detect commonly occurring pattern so that you can compress them or what was your strategy today for passages not applications at the moment cuz you're so you're saying you're like news articles and trying to detect commonly occurring patterns in the Articles repetition of characters or what exactly is to summarize Pasta Jay's and articles like a human will so probably get some done I'll compare with the ones up to computer produced
+ I think my favorite YouTube video is the one when John where can I buy the iPhone 6 bending and passports I'm still very different I want to see how is virtual reality going to change things virtual reality is I don't think I'm telling you started back in the 80s immersive experience.
+ immersive experience is full so maybe if you can make it there it's like yeah right there to Facebook like it's going to be a lot easier that's that's why I look at it people are going to start using virtual reality for the real world
+ yes I do. It does polo action game sounds traumatic dreams about hot positive Hospital level
+ red flavor for RPGs Final Fantasy
+ my favorite for Action scrubbly Call of Duty 4 simulation is football manager is like a cross between a sports and simulation movies are going to merge in the future
+ I'm not so sure about that.
+ I have already thought about that but now.
+ I think there is more of an art or more of a science I think it's more of an odd because it allows you to express yourself in way Shield is best your application represents you I think it's more of a science because the act of engineering I think I like you I desire is the science science s video what are your favorite podcasts
+ is going to be eradicated with technological means in the next 15 or 20 years I do because the more new movies coming out to be more job opportunities and help people get us a Publix Publix in Oak Ridge jobs for people I don't know
+ I'll break Iron Horse videos on SC what do you think about the theory that automation will take so many jobs have anything to do you need to learn how to program the automated machines teacher emotion are two robots but ain't nothing like the real hearts and feelings teaching
+ okay interesting
+ well it's been an hour I flew by I love talking to you guys coming out of wooden computer I really hope to do to meet you guys at some point in the future I know you're okay well well I really I wish you guys the best and I can't wait to see what the future thank you thank you very much bye bye
